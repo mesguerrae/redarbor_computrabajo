@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:localhost:SQLEXPRESS;Database=redarbor;Trusted_Connection=True;"
+    }
+  }
+}

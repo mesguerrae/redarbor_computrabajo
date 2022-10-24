@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redarbor", "Redarbor\Redarbor.csproj", "{728BAFB1-CEB7-4DEC-B3C6-73CB647C7A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedarborTests", "RedarborTests\RedarborTests.csproj", "{05769600-3B1A-4EBE-B366-4758EB1CC4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728BAFB1-CEB7-4DEC-B3C6-73CB647C7A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728BAFB1-CEB7-4DEC-B3C6-73CB647C7A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728BAFB1-CEB7-4DEC-B3C6-73CB647C7A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728BAFB1-CEB7-4DEC-B3C6-73CB647C7A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05769600-3B1A-4EBE-B366-4758EB1CC4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05769600-3B1A-4EBE-B366-4758EB1CC4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05769600-3B1A-4EBE-B366-4758EB1CC4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05769600-3B1A-4EBE-B366-4758EB1CC4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4531D7-D067-4E7B-B0CC-F4368F53E082}
+	EndGlobalSection
+EndGlobal
